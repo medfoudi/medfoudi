@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**medfoudi/medfoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ # Mohamed Foudil
+foudimed52@gmail.com
+
+![](./resources/images/banner.jpg)<br>
+  I’m currently learning Developpement Web chez Sirius 
+  School
+  ## ***Etudes***
+- License en informatique de gestion
+- Formation en web design chez Sirius School
+  
+## ***Experience***
+
+- Informaticien au sein de la direction des services agricoles
+- Coordinateur logistique et transport chez Samsung et Brandt
+  
+## ***Compétences***
+- Adobe Photoshop, Adobe Illustrator, Adobe Indesign et Adobe XD
+- Figma
+- Micro Soft Office
+- SAP
+## ***Loisirs***
+- Sport, musique, lecture, voyage et design 
