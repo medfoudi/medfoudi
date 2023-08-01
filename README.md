@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-
-
-
  # Mohamed Foudil
 foudimed52@gmail.com
 
 ![](./resources/images/banner.jpg)<br>
+
   I’m currently learning Developpement Web chez Sirius 
   School
   ## ***Etudes***
